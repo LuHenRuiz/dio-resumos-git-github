@@ -14,7 +14,7 @@ Repositório de teste para armazenar resumos sobre Git e GitHub do curso de vers
 |```cd```| Selecionar repositório|
 |``` git init ```| Inicializar repositório|
 |```git status```| Checar status do repositório|
-|```clear```OU ```ctrl+L```| Limpar visualização|
+|```clear``` OU ```ctrl+L```| Limpar visualização|
 |```git add```| Adicionar arquivo à fase de preparação|
 |```git commit```| Comitar alterações realizadas|
 |```-m```| Adicionar mensagem|
@@ -22,3 +22,4 @@ Repositório de teste para armazenar resumos sobre Git e GitHub do curso de vers
 |```.gitignore```| Selecionar arquivo para ignorar|
 |```touch```| Criar um arquivo|
 |```.gitkeep```| Arquivo convencionado para reconhecer um repositório vazio|
+|```rm -rf .git```|Retira o status de repositório de uma pasta|
